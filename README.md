@@ -32,4 +32,10 @@ Node.js and npm are installed on your machine.
 Run the application: npm start
 Access the API at: http://localhost:3000/auth
 
+## Postman Collection Link
+
+Explore the [Postman Collection](https://api.postman.com/collections/19658038-505d6add-3a06-4cb4-9d5a-3aff729d5085?access_key=PMAT-01HACBQK6KY9ZJK917C6VY5VTP) 
+to easily interact with the authentication API and test various functionalities of the application.
+
+
 
