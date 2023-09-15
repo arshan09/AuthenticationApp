@@ -14,19 +14,19 @@ User listing with pagination and limit options
 
 # Technologies Used:
 
-Node.js
-Express.js
-MongoDB
-JSON Web Tokens (JWT)
-Nodemailer (for email notifications)
+1.Node.js
+2.Express.js
+3.MongoDB
+4.JSON Web Tokens (JWT)
+5.Nodemailer (for email notifications)
 
 # Prerequisites
-Node.js and npm installed on your machine.
+Node.js and npm are installed on your machine.
 
 # Installation
-Clone the repository: git clone <repository_url>
-Install dependencies: npm install
-Set up environment variables: Create a .env file based on .env.example and provide the required values.
+1. Clone the repository: git clone <repository_url>
+2. Install dependencies: npm install
+3. Set up environment variables: Create a .env file based on the .envexample and provide the required values.
 
 # Usage
 Run the application: npm start
